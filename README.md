@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning C#, JavaScript, Python
 - 💞️ I’m looking to collaborate on AI and CyberSecurity
-- 📫 How to reach me franceskohasipi03@gmail.com
+- 📫 How to reach me fhasipi21@gmail.com
