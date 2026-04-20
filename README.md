@@ -1,5 +1,5 @@
 - Hi, I’m Francesko Hasipi
 - I’m interested in Software Engineering
-- I’m currently learning C#, JavaScript, Python
+- I’m open to work
 - I’m looking to collaborate on AI and CyberSecurity
 - How to reach me fhasipi21@gmail.com
